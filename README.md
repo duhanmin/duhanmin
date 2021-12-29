@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=duhanmin&show_icons=true" alt="logo" height="160" align="left" style="margin: 10px; margin-bottom: 20px;" />
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=duhanmin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duhanmin&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=duhanmin&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+
+### GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=duhanmin)](https://github.com/ryo-ma/github-profile-trophy)
