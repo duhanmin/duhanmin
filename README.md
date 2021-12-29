@@ -22,14 +22,6 @@ Here are some ideas to get you started:
 
 
 ### GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=duhanmin)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=duhanmin&show_icons=true" alt="logo" height="160" align="left" style="margin: 10px; margin-bottom: 20px;" />
-
-
 <img src="https://github-profile-trophy.vercel.app/?username=duhanmin&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+
+
