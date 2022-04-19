@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=duhanmin&show_icons=true&hide_border=true&theme=radical&hide=stars" />
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=duhanmin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&theme=radical" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duhanmin&layout=compact&theme=buefy&hide_border=true&theme=radical" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=duhanmin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&theme=radical&hide=stars" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duhanmin&layout=compact&theme=buefy&hide_border=true&theme=radical&hide=stars" /> |
 | ------------- | ------------- |
 
 
