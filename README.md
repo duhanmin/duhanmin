@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=duhanmin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> 
--->
-
 
 ### GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=duhanmin&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
+-->
 
