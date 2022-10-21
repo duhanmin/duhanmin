@@ -33,5 +33,5 @@ I am DK, a Software Engineer. I love open source.<br>
 
 Please click the red button below to nominate me for the Github Stars programme. <br>
 
-<a href='https://stars.github.com/nominate/' target="_blank"><img alt='github' src='https://img.shields.io/badge/Nominate_me --> @david--kariuki-100000?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff&color=E03A3A'/></a>
+<a href='https://stars.github.com/nominate/' target="_blank"><img alt='github' src='https://img.shields.io/badge/Nominate_me --> @duhanmin-100000?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff&color=E03A3A'/></a>
 
