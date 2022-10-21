@@ -1,19 +1,21 @@
-### Hi there 👋
+### Oh Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+I am DK, a Software Engineer. I love open source.<br>
 
-<!--
-**duhanmin/duhanmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>1.  🧑 **PERSONA**<br>
 
-Here are some ideas to get you started:
+&emsp;&emsp;&emsp;**Nationality**&emsp;&emsp;&nbsp;: China 🇨🇳🇪<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br> 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
+
+      i. Mobile application development: - Android - Java (Also Learning Kotlin).              
+     ii. Web Development: - HTML CSS, Markdown, JavaScript, JQuery, ThymeLeaf.               
+     ii. Backend Development: - SpringBoot, PHP.               
+    iii. Shell Scripting: - Bash programming.    
+     iv. Databases: - MySQL, Postgres.            
+      v. UX/UI Design: - Adobe XD, Figma.             
+     vi. Virtualization: - VMWARE.
+     vii. Operating Systems: - Linux - Arch Linux(Mostly), Pop OS(Gaming, Backup OS), (Kali, Fedora, Debian OS, Ubuntu (Testing Shell Sripts)), Windows.
+             
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=duhanmin&include_all_commits=true&count_private=true&show_icons=true&line_height=20&&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="1400" alt="authorwlh's Github Stats">
 
@@ -25,3 +27,8 @@ Here are some ideas to get you started:
 
 -->
 
+<br>
+
+Please click the red button below to nominate me for the Github Stars programme. <br>
+
+<a href='https://stars.github.com/nominate/' target="_blank"><img alt='github' src='https://img.shields.io/badge/Nominate_me --> @duhanmin?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff&color=E03A3A'/></a>
