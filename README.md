@@ -3,7 +3,7 @@ I am DK, a Software Engineer. I love open source.<br>
 
 <br><br>1.  🧑 **PERSONA**<br>
 
-&emsp;&emsp;&emsp;**Nationality**&emsp;&emsp;&nbsp;: China 🇨🇳🇪<br>
+&emsp;&emsp;&emsp;**Nationality**&emsp;&emsp;&nbsp;: China 🇨🇳<br>
 
 <br><br> 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
@@ -14,7 +14,8 @@ I am DK, a Software Engineer. I love open source.<br>
      iv. Databases: - MySQL, Postgres.            
       v. UX/UI Design: - Adobe XD, Figma.             
      vi. Virtualization: - VMWARE.
-     vii. Operating Systems: - Linux - Arch Linux(Mostly), Pop OS(Gaming, Backup OS), (Kali, Fedora, Debian OS, Ubuntu (Testing Shell Sripts)), Windows.
+     vii. Cloud Architecture & Machine learning & Artificial Intelligence.
+     viii. Operating Systems: - Linux - Arch Linux(Mostly), Pop OS(Gaming, Backup OS), (Kali, Fedora, Debian OS, Ubuntu (Testing Shell Sripts)), Windows.
              
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=duhanmin&include_all_commits=true&count_private=true&show_icons=true&line_height=20&&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="1400" alt="authorwlh's Github Stats">
